@@ -79,9 +79,12 @@ Sigue estos sencillos pasos para poner en marcha el sistema:
 
 ---
 
-##  Licencia
+## Licencia
 
-Este proyecto está bajo la **Licencia MIT**. Eres libre de usarlo, modificarlo y distribuirlo, solo asegúrate de mantener la atribución original.
+Este proyecto está bajo la licencia Creative Commons Atribución-NoComercial 4.0 Internacional.  
+Puedes compartir y modificar este código para fines personales o educativos, siempre que me des crédito como autor.
+
+Lee los términos completos en el archivo [`LICENSE`](./LICENSE) o en [creativecommons.org](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ---
 
