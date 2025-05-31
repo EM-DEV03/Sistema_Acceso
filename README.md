@@ -1,10 +1,10 @@
-# 🎓 Sistema de Control de Acceso para Estudiantes y Visitantes
+#  Sistema de Control de Acceso para Estudiantes y Visitantes
 
 Este proyecto es una **aplicación de escritorio robusta y fácil de usar**, desarrollada en **Python** con `Tkinter` y una base de datos `SQLite`. Está diseñada para gestionar de manera eficiente el ingreso y la salida de estudiantes y visitantes en cualquier institución, ofreciendo una interfaz intuitiva para la administración y el registro de accesos.
 
 ---
 
-## ✨ Características Principales
+## Características Principales
 
 - **Interfaz Gráfica Moderna**: Construida con `Tkinter` y `ttk.Notebook` para una experiencia de usuario fluida y organizada.
 - **Gestión de Estudiantes**:
@@ -22,8 +22,8 @@ Este proyecto es una **aplicación de escritorio robusta y fácil de usar**, des
 
 ---
 
-## 📁 Estructura del Proyecto
-
+##  Estructura del Proyecto
+```
 sistema_acceso/
 ├── main.py # Menú principal de la aplicación
 ├── student_visitor.py # Lógica para el registro de estudiantes y visitantes
@@ -33,7 +33,7 @@ sistema_acceso/
 ├── data/
 │ └── acceso.db # Base de datos SQLite
 └── README.md # Este archivo
-
+```
 ---
 
 ## ⚙️ Requisitos
@@ -43,7 +43,7 @@ sistema_acceso/
 
 ---
 
-## 🚀 Cómo Empezar
+##  Cómo Empezar
 
 Sigue estos sencillos pasos para poner en marcha el sistema:
 
@@ -62,14 +62,14 @@ Sigue estos sencillos pasos para poner en marcha el sistema:
 
 ---
 
-## 🔐 Acceso de Administrador
+##  Acceso de Administrador
 
 - **Usuario**: `—` (deja este campo vacío al iniciar sesión)
 - **Contraseña**: `admin123` (¡Puedes cambiarla directamente en el archivo `admin.py` para mayor seguridad!)
 
 ---
 
-## ✨ Próximas Mejoras (Ideas Futuras)
+##  Próximas Mejoras (Ideas Futuras)
 
 - Implementar **alertas en tiempo real** si un visitante excede su tiempo límite.
 - Mejorar la **seguridad del login** del administrador.
@@ -79,12 +79,12 @@ Sigue estos sencillos pasos para poner en marcha el sistema:
 
 ---
 
-## 📦 Licencia
+##  Licencia
 
 Este proyecto está bajo la **Licencia MIT**. Eres libre de usarlo, modificarlo y distribuirlo, solo asegúrate de mantener la atribución original.
 
 ---
 
-## 🤝 Autor
+##  Autor
 
-Desarrollado con pasión por **EM_DEV    **. ¡Siéntete libre de personalizar y adaptar este proyecto a tus necesidades!
+Desarrollado con pasión por *EM_DEV*. ¡Siéntete libre de personalizar y adaptar este proyecto a tus necesidades!
